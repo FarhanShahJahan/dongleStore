@@ -1,0 +1,182 @@
+/* Sign up */
+body{
+ background-color: #1b222a;
+color: white;
+font-family: 'verdana';
+
+}
+#body{
+ background-color: #1b222a;
+color: white;
+font-family: 'verdana';
+float: left;
+height: 1000px;
+padding-left: 0
+}
+
+header{
+    background-color: #46b1b7;
+    padding-top: 10px;
+   z-index: 1;
+    position: fixed;
+    width: 100%;
+    margin-top: -10px;
+    margin-left: -10px;
+    align-content: center;
+text-align: center;
+    height: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+section{
+padding-top: 100px;
+    padding-left: 0px;
+    height: 900px;
+
+}
+.menubar {
+height: 1000 px;
+width: 100%;
+background-color: #46b1b7;
+color: white;
+}
+
+#menu{
+padding: 0;
+margin: 0;
+line-height: 40px;
+color: white;
+    
+}
+#menu li{
+list-style: none;
+display: inline;
+
+}
+#menu a{
+    color: white;
+    text-decoration: none;
+    padding: 5px;
+    margin-right:130px;
+    font-size: 20px;
+    float:inherit;
+}
+
+button{
+    color: white;
+    background-color: #46b1b7;
+}
+
+#tablesign{
+    color: white;
+    align-self: center;
+}
+
+#butlogin{
+float: right;
+margin-right: 40px;
+ color: white;
+    background-color: red;}
+
+.tf{
+    width: 400px;
+    padding: 4px;
+    margin-bottom: 10px;
+}
+
+#a{
+    color: #46b1b7 ;
+}
+
+#button{
+color: white;
+background-color: #46b1b7 ; 
+}
+
+.icon{
+height: 10;
+width: 20px%;
+}
+
+#pro_box{
+width: 780px;
+text-align: center;
+margin-left: 30px;
+margin-bottom: 10px;
+    
+}
+
+#singlepro{
+    float:left;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+.mainWrap{
+width: 1000px;
+height: auto;
+margin: auto;
+background-color:  #0b1014;
+}
+
+.contentwrap{
+width: 1000px;
+height: auto;
+margin: auto;
+}
+
+#content{
+float: right;
+align-self: center;
+width: 800px;
+height: auto;
+   background-color:#1b222a;
+color: white;
+
+}
+
+#sidebar{
+    float: left;
+    width: 200px;
+    height: 1000px;
+   background-color: #0b1014;
+    
+    
+}
+#sidetitle{
+    background-color: white;
+    color: black;
+    font-size: 18px;
+    padding: 5px;
+    
+    
+    
+}
+#cats{
+padding: 0px;
+    
+}
+
+#cats li{
+    list-style: none;
+    display: block;
+    padding-bottom: 5px;
+}
+#cats a{
+    color: white;
+    padding: 5px;
+    margin: 5px;
+    text-align: center;
+    text-decoration: none;}
+
+#tablecart{
+    align-content: center;
+    width: 700;
+    padding: 10px;
+    border-color: white;
+}
+
+#addtx{
+size:40;
+}
+/*end sign up*/
